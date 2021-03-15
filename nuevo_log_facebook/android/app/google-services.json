@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500861083339",
+    "project_id": "fir-facebook-drive",
+    "storage_bucket": "fir-facebook-drive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500861083339:android:afc18d4b74650a7a25854e",
+        "android_client_info": {
+          "package_name": "com.example.nuevo_log_facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500861083339-688fu9rqvfd08s8ibs9t3aevi2jpavoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nuevo_log_facebook",
+            "certificate_hash": "59435180fd7a2298b9334dd6f04b6d98daa28580"
+          }
+        },
+        {
+          "client_id": "500861083339-3j35tule8t7sct07732i99dc7p7eg1c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx7__FlYdeUEPii5ytaE4SiX3mnaBtTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500861083339-3j35tule8t7sct07732i99dc7p7eg1c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
